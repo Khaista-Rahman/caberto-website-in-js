@@ -1,0 +1,290 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+*::selection{
+    color: white;
+    background-color: black;
+}
+
+.nav{
+    padding: 3vw 3vw;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 20px;
+
+}
+
+.nav img{
+    height: 40px;
+    width: 70px;
+    position: absolute;
+    left: 20px;
+}
+
+.nav a{
+    font-size: larger;
+    color: black;
+    margin-right: 30px ;
+}
+
+.nav i{
+    gap: -10px;
+}
+
+.main2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.nav2{
+    height: 100px;
+    width: 80%;
+    padding: 18vw 2vw;
+}
+
+
+.nav2 div{
+    font-size: 7vw;
+    font-weight: bolder;
+    word-spacing: 10px;
+    margin-left: 40px;
+    color: white;
+    -webkit-text-stroke: 0.8px black;
+}
+
+.nav2 p{
+    font-size: large;
+    font-weight: 500;
+    margin-left: 40px;
+}
+
+.main3{
+    width: 84.1%;
+    margin-left: 102px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.paragraph{
+    height: fit-content;
+    margin-left: 70px;
+
+}
+
+
+.paragraph p{
+    font-size: x-large;
+}
+
+.main4{
+    width: 73%;
+    margin-left: 102px;
+    padding: 6vw 5.5vw;
+}
+
+#project{
+    font-size: 4vw;    
+    font-weight: 900;
+    color: white;
+    -webkit-text-stroke: 0.8px black;
+}
+
+#featured{
+    font-size: 5vw;    
+    font-weight: 200;
+}
+
+.sections{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+}
+
+#section1{
+    width: 35%;
+}
+
+.part1{
+    padding: 19.5vw 0vw;
+}
+
+#para1{
+    font-size: 1.5vw;
+    margin-bottom: 15px;
+}
+
+#para2{
+    font-size: 3.6vw;
+}
+
+#para3{
+    font-weight: 300;
+    color: gray;
+    margin-top: 15px;
+}
+
+.part2{
+    padding: 19.5vw 0vw;
+}
+
+#para4{
+    font-size: 1.5vw;
+    margin-bottom: 15px;
+}
+
+#para5{
+    font-size: 3vw;
+}
+
+#para6{
+    font-weight: 300;
+    color: gray;
+    margin-top: 15px;
+}
+
+.part3{
+    padding: 19.5vw 0vw;
+}
+
+#para7{
+    font-size: 1.5vw;
+    margin-bottom: 15px;
+}
+
+#para8{
+    font-size: 3vw;
+}
+
+#para9{
+    font-weight: 300;
+    color: gray;
+    margin-top: 15px;
+}
+
+.part4{
+    padding: 19.5vw 0vw;
+}
+
+#para10{
+    font-size: 1.5vw;
+    margin-bottom: 15px;
+}
+
+#para11{
+    font-size: 3vw;
+}
+
+#para12{
+    font-weight: 300;
+    color: gray;
+    margin-top: 15px;
+}
+
+.part5{
+    padding: 19.5vw 0vw;
+}
+
+#para13{
+    font-size: 1.5vw;
+    margin-bottom: 15px;
+}
+
+#para14{
+    font-size: 3vw;
+}
+
+#para15{
+    font-weight: 300;
+    color: gray;
+    margin-top: 15px;
+}
+
+.part6{
+    padding: 19.5vw 0vw;
+}
+
+#para16{
+    font-size: 1.5vw;
+    margin-bottom: 15px;
+}
+
+#para17{
+    font-size: 3vw;
+}
+
+#para18{
+    font-weight: 300;
+    color: gray;
+    margin-top: 15px;
+}
+
+#section2{
+    width: 35%;
+    height: 309.5vw;
+}
+
+.image1{
+    height: 650px;
+    width: 10.9%;
+    margin-top: 50px;
+    background-image: url(image2.jpg);
+    background-size: cover;
+    border: none;
+    padding: 0px 200px;
+}
+
+.image2{
+    height: 650px;
+    width: 10.9%;
+    margin-top: 50px;
+    background-image: url(image3.jpg);
+    background-size: cover;
+    border: none;
+    padding: 0px 200px;
+}
+
+.image3{
+    height: 650px;
+    width: 10.9%;
+    margin-top: 50px;
+    background-image: url(image4.jpg);
+    background-size: cover;
+    border: none;
+    padding: 0px 200px;
+}
+
+.image4{
+    height: 650px;
+    width: 10.9%;
+    margin-top: 50px;
+    background-image: url(image5.jpg);
+    background-size: cover;
+    border: none;
+    padding: 0px 200px;
+}
+
+.image5{
+    height: 650px;
+    width: 10.9%;
+    margin-top: 50px;
+    background-image: url(image6.jpg);
+    background-size: cover;
+    border: none;
+    padding: 0px 200px;
+}
+
+.image6{
+    height: 650px;
+    width: 10.9%;
+    margin-top: 50px;
+    background-image: url(image7.jpg);
+    background-size: cover;
+    border: none;
+    padding: 0px 200px;
+}
